@@ -1,0 +1,147 @@
+_id,_title,_budget_minimum,_budget_maximum,_type,_bidperiod,_time_submitted,_bid_stats_bid_count,_bid_stats_bid_avg,_currency_code,_currency_exchange_rate,proposal,full_description
+37873506,Python Troubleshooting for WooCommerce Feeds,6.0,12.0,hourly,7,1710327185,19,11.31578947368421,EUR,1.093073,,"I'm seeking a Python developer to troubleshoot a script hosted on a Digital Ocean Ubuntu droplet, designed to update a WooCommerce site with product feeds; the script, previously functional, now faces issues after the webshop's relocation and module installation challenges, necessitating urgent expert intervention."
+37873482,Fullstack Dev for Blogging Site Development,600.0,1500.0,fixed,7,1710326688,8,2331.25,INR,0.012071,,"Talented Web developer needed for 1500 Rs.I have a vision for a blogging website that prioritizes user registration and interaction. I am looking for a fullstack web developer who is proficient in HTML/CSS, JavaScript, and Python. 
+
+Key Responsibilities: 
+- Develop a user registration and login system.
+- Implement a user-friendly blogging platform.
+- Translate my specific design vision into a functional website.
+
+Ideal Skills and Experience:
+- Experience with building blogging platforms.
+- Proficiency in HTML/CSS, JavaScript, and Python.
+- Outstanding problem-solving ability and attention to detail.
+- Strong UX/UI design skills.
+- Experience in translating design mock-ups into live websites. 
+
+If you can meet these needs and have a proven track record in these areas, I'd love to hear from you. Let's create something incredible together."
+37873425,Price comparison platform + mobile App,5000.0,10000.0,fixed,7,1710325498,69,7350.985507246377,EUR,1.093073,,"Technical Description MVP Price Comparison Extreme Sports Equipment
+
+Goal: Create an MVP for a price comparison platform for extreme sports equipment.
+
+MVP Features:
+Web Platform/ mobile App Ios/Android
+Search for products by sport, brand, model, price, and other features.
+Compare prices from different retailers, highlighting the lowest and offers.
+Product sheets with detailed information, reviews, and images.
+Search filters by brand, model, price, price range, free shipping, and other criteria.
+Sort by price, relevance, reviews, and other criteria.
+
+Technical Architecture:
+Frontend: ReactJS -> mockups and brand guideline documents
+Backend: Python/Django 
+Database: PostgreSQL -> The structure is already done, needs to be developed 
+Cloud: Amazon Cloud AWS
+Tracking product with Matomo integration
+Pay Per Click business model
+API integrations
+Feeds upload and feed and product properties modification"
+37873357,Solana-Trading Telegram Bot with Jupiter API,250.0,750.0,fixed,7,1710324204,42,554.452380952381,USD,1.0,,"I am seeking a skilled Python developer to create a Telegram trading bot for me that interfaces with the Solana Blockchain using Jupiter API. The bot needs to perform the following tasks:
+
+- Buy Tokens
+- Sell Tokens
+- Make Transfers
+
+It will be very similar to the way bonkbot works. 
+
+Hello i am looking to create a similar bot to this i want everything the same. Itsbusing Jupiter api for solana
+
+There is a link to the bot and it's functions here: 
+
+https://docs.bonkbot.io/quick-setup-guide/initializing-bonkbot
+
+
+This is the api it's us in
+
+https://station.jup.ag/docs/api
+
+To be successful in this project, you'll need proven experience in Python development, particularly working with APIs, and some familiarity with the Solana Blockchain would be beneficial. Knowledge of Telegram bot development is crucial, as I already have a Telegram account established for this trading bot. Your main task would be to ensure smooth integration between the bot, the Telegram account, Jupiter API, and the Solana Blockchain. Let's make trading easier, together!"
+37873309,Python/flask project development..,30.0,250.0,fixed,7,1710323340,10,141.9,USD,1.0,,"We are seeking a talented Python Developer with expertise in Flask. The ideal candidate will have a strong background in backend development using Python and Flask framework, as well as experience with basic front-end technologies including HTML, CSS, and Javascript. Additionally, some minimal experience with the Postgres database is required.
+Requirements:
+•	Proficiency in Python programming language.
+•	Extensive experience with Flask framework.
+•	Strong understanding of basic front-end technologies including HTML, CSS, and Javascript.
+•	Minimal experience with Postgres database.
+•	Good understanding of software development best practices.
+•	Excellent problem-solving and communication skills.
+•	Ability to work independently and in a team environment.
+Requirements document is attached. Also, a demo of the current status of the app is attached."
+37873294,Python AI Prompt Comparison Tool Development,75000.0,150000.0,fixed,7,1710323115,20,120525.0,INR,0.012071,,"I'm looking for an adept Python developer to create a unique tool that can engage with multiple AI systems: AI Tool A, AI Tool B, and AI Tool C. 
+
+Here's what I need this tool to do:
+- Compare multiple prompts supplied by these three different AI tools
+- Select the most suitable AI tool based on the comparison
+- Process the correct prompts
+
+The selection criterion should consider these factors:
+-Accuracy: The tool should be able to determine which AI tool provides the most accurate data based on the prompts.
+-Speed: The faster the AI tool can process prompts, the better.
+-Cost: The cost-effectiveness of each AI tool should also be considered. 
+
+Ideal Skills & Experience for the job:
+* Python development
+* Artificial Intelligence Systems Management
+* Knowledge in tool comparison & benchmarking.
+
+I look forward to seeing your innovative solutions. Let's disrupt the AI industry together!"
+37842499,Licensing Module Creation in Python and C++,1500.0,12500.0,fixed,7,1710321891,7,15742.857142857143,INR,0.012071,,"I'm urgently in need of a Python programmer with C++ knowledge to develop a licensing module for our software. This module is integral for controlling access, tracking expiry, and limiting certain features. 
+
+- Your Responsibility:
+
+ 1. Implementing user-based restrictions, wherein access and permissions vary per user.
+ 2. Creating time-based restrictions that deactivate certain features after a specified period.
+ 3. Developing feature-based restrictions to control access on different features.
+
+- Key Qualifications:
+
+ 1. Proficiency in Python and C++
+ 2. Experience in creating licensing modules
+ 3. Solid understanding of user, time and feature-based restrictions
+
+Remember, I require this project to be completed ASAP. Proven ability to meet strict deadlines will be highly valued."
+37873181,AWS Python full stack developer -For taking mock interviews (3-5 years exp),100.0,400.0,hourly,7,1710321026,6,355.0,INR,0.012071,,"I am looking for someone who can take mock interviews and guide our developers for followings.
+
+AWS Services
+Python Rest Services"
+37873178,Python & TypeScript FullStack Developer,250.0,750.0,fixed,7,1710321005,51,625.3137254901961,EUR,1.093073,,"Project Details
+€250.00 – 750.00 EUR
+- Build a fully-functional e-commerce website focused on selling products directly online.
+- Integrating a seamless shopping cart and checkout process to ensure a smooth user journey from selection to purchase.
+- Incorporate advanced product search and filtering options to help customers easily navigate through offerings.
+
+Ideal Candidate:
+- Proven expertise in e-commerce web design and development.
+- Strong understanding of UX/UI principles for online sales.
+- Proficiency in creating responsive and secure online shopping experiences.
+- Ability to implement custom e-commerce functionalities.
+
+I value clear communication and adherence to deadlines. Excited to work with a detail-oriented professional dedicated to crafting engaging online stores"
+37873048,Advanced Reinforcement Learning,10.0,45.0,fixed,7,1710318629,3,36.0,GBP,1.27912,,"I'm in need of a Deep Reinforcement Learning specialist. You will be diving into a project that encapsulates Dynamic Programming, Tabular RL, Deep RL, Continuous RL and Fine-tuning. My desired outcomes include:
+
+- Developing a new Reinforcement Learning (RL) algorithm
+- Implementing DP algorithms algorithms for MDPs
+- Implement ε-greedy action selection
+- Implement Q-Learning and On-policy first-visit Monte Carlo
+- Analyse performance 
+- Implement Deep Q-Networks and REINFORCE
+- Reinforce performance analysis 
+- DQN performance analysis 
+- Implement ε-scheduling strategies 
+- Select best hyperparameter 
+- Implement DDPG for continuous RL
+- Tune specified hyperparameters to solve a particular problem
+- Tune all hyperparameters to maximise score on the above problem
+- Explain the selection of above hyperparameters
+
+
+The ideal partner for this project should have a firm understanding and real-world experience in Python, handling RL projects, and more specifically in:
+
+- Dynamic Programming
+- Tabular RL
+- Deep RL
+- Continuous RL
+- Fine-tuning
+
+Majority of the model is coded, you just need to add a few lines of code for the above.
+
+Your commitment to high-quality and efficient Python code, coupled with a deep understanding of RL, will be critical in ensuring the success of this project. Your ability to develop, implement, and improve RL algorithms will play a large role in our ability to solve some complex challenges. Looking forward to your insights."
